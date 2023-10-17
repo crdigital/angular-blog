@@ -1,0 +1,15 @@
+.container__blog-title{
+  color:white;
+}
+
+.container__blog-title > h1 {
+  font-family: 'Segoe UI';
+  margin: 15px 0 15px 0;
+  font-size: 135px;
+  display: flex;
+  justify-content: center;
+}
+
+.container__blog-title > hr {
+  margin: 20px 0 5px 0;
+}
