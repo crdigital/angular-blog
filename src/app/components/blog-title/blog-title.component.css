@@ -10,6 +10,13 @@
   justify-content: center;
 }
 
+.container__blog-title > span {
+  font-family: 'Segoe UI';
+  color: rgb(231, 228, 228);
+  display: flex;
+  justify-content: center;
+}
+
 .container__blog-title > hr {
   margin: 20px 0 5px 0;
 }
